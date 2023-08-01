@@ -1,4 +1,5 @@
-// Copies a BMP file
+// Copies a BMP
+// Takes an image and flips it upside-down
 
 #include <stdio.h>
 #include <stdlib.h>
